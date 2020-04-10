@@ -1,3 +1,5 @@
+import 'package:flutter/cupertino.dart';
+
 void main () {
 
   String rodrigo = "OI MEU NOME É warley";
@@ -18,6 +20,13 @@ void main () {
         info = "Reprovado: ${nota.toStringAsPrecision(2)}";
       }
     });
+
+    qlçkwjdlkçBoxFit.scaleDownqlhda
+    jolsahdla
+    kljshdalkd
+    ljkdashld
+
+
   }
 
 
